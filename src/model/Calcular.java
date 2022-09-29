@@ -74,6 +74,7 @@ public class Calcular
                 "\nValor2: "+ this.getValor2() +
                 "\nDificuldade: " + this.getDificuldade() +
                 "\nOperação: " + op;
+
     }
 
 }
